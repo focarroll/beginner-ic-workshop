@@ -2,10 +2,10 @@
 project:
   wokwi_id:    442729616820575233  # Set this to the ID of your Wokwi project (the number from the project's URL)
   title:       "Beginner Workshop" # Project title
-  author:	     "Ferdia O'Carroll"  # Your name
+  author:      "Ferdia O'Carroll"  # Your name
   discord:     ""                  # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description: "First IC"          # One line description of what your project does
-  language:	   "Wokwi"             # other examples include SystemVerilog, Amaranth, VHDL, etc
+  language:    "Wokwi"             # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:    0                   # Clock frequency in Hz (or 0 if not applicable)
 
   # How many tiles your design occupies? A single tile is about 167x108 uM.
